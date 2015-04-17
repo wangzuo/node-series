@@ -1,0 +1,23 @@
+{
+  "name": "node-series",
+  "version": "1.0.0",
+  "description": "Dead simple series function ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangzuo/node-series.git"
+  },
+  "keywords": [
+    "node",
+    "series"
+  ],
+  "author": "Wang Zuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzuo/node-series/issues"
+  },
+  "homepage": "https://github.com/wangzuo/node-series"
+}
