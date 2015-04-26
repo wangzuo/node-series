@@ -1,5 +1,5 @@
 # node-series
-Dead simple series function
+Lightweight series function for node and browser
 
 ## Installation
 ``` sh
