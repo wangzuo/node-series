@@ -27,3 +27,6 @@ series(function(next) {
   }, 1000);
 });
 ```
+
+## Supported browsers
+IE8+
