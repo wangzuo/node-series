@@ -1,4 +1,4 @@
-# node-series
+# node-series [![Build Status](https://travis-ci.org/wangzuo/node-series.svg?branch=master)](https://travis-ci.org/wangzuo/node-series)
 Lightweight series function for node and browser
 
 ## Installation
