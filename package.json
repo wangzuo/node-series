@@ -1,6 +1,6 @@
 {
   "name": "node-series",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight series function for node and browser",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/wangzuo/node-series",
   "devDependencies": {
-    "tape": "^4.0.0"
+    "tape": "^4.0.0",
+    "zuul": "^2.1.1"
   }
 }
