@@ -4,7 +4,7 @@
   "description": "Dead simple series function ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,21 @@
   "bugs": {
     "url": "https://github.com/wangzuo/node-series/issues"
   },
-  "homepage": "https://github.com/wangzuo/node-series"
+  "homepage": "https://github.com/wangzuo/node-series",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  }
 }
