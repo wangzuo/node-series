@@ -23,6 +23,6 @@
   "homepage": "https://github.com/wangzuo/node-series",
   "devDependencies": {
     "tape": "^4.0.0",
-    "zuul": "^2.1.1"
+    "zuul": "^3.11.1"
   }
 }
