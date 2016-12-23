@@ -1,8 +1,8 @@
 function run(fns) {
   var fn = fns.shift();
-  if(typeof fn === 'function') {
-    fn(function() {
-      if(fns.length) run(fns);
+  if (typeof fn === 'function') {
+    fn(function () {
+      if (fns.length) run(fns);
     });
   }
 }
